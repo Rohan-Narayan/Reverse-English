@@ -1,0 +1,3 @@
+lr: 5.0e-05
+num_train_epochs: 15
+warmup_steps: 1000
